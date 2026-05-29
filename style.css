@@ -1,0 +1,13 @@
+@media (min-width: 768px) {
+section {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 80px 40px;
+        }
+header {
+    padding: 100px 40px;
+        }
+body {
+    font-size: 18px;
+    }
+}
